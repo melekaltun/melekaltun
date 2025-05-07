@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melekaltun
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
+- 👀 I am interested in AI, AutoML and optimization of AI.
+- 🌱 I am currently developing the AutoML system 
 - 📫 How to reach me: melekaltunm7@gmail.com
 
 
